@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felipeasantana732
 - 👀 I’m interested in BackEnd prog and DevOps
-- 🌱 I’m currently learning About TypeScript and Object Orientation
-- 💞️ I’m looking to collaborate on new TypeScript or Java projects or rebuil an existing project
+- 🌐 My personal WebSite: fstools.tech
+- 💞️ I’m looking to collaborate on new TypeScript or Java projects or rebuild an existing project
 - 📫 How to reach me: felipe.santana732@discente.ufg.br
 - ⚡ Fun fact: Night time is the best to code!
 
